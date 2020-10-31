@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./public/assets/chef2.webp" alt="drawing" style="width:150px;"/>
-
 ![placeholder](./public/assets/logo.png)
 ![placeholder](./public/assets/logo2.png)
+
+![placeholder](./public/assets/chef.png)
 
 ---
 
